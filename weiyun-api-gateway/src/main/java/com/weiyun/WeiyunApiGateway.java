@@ -9,6 +9,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 @EnableDiscoveryClient
 @EnableZuulProxy
 public class WeiyunApiGateway {
+    //snjkabfkjasbfjasbfjas
     public static void main(String[] args) {
         SpringApplication.run(WeiyunApiGateway.class,args);
     }
